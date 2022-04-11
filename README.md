@@ -10,6 +10,7 @@ In this lesson, we'll be covering how to build associations bewteen different mo
 
 - Fork and Clone
 - `npm install`
+- `mkdir migrations`
 - `sequelize db:create`
 
 ##
