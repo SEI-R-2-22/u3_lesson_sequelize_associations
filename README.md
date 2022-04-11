@@ -4,7 +4,7 @@
 
 ## Overview
 
-In this lesson, we'll be covering how to build associations bewteen differen models/tables. We'll set up foreign keys and execute queries to `include` the related data. Associations are one of the most important topics we'll cover when it comes to relational databases as they are the principles that make relational databases as popular as they are.
+In this lesson, we'll be covering how to build associations bewteen different models/tables. We'll set up foreign keys and execute queries to `include` the related data. Associations are one of the most important topics we'll cover when it comes to relational databases as they are the principles that make relational databases as popular as they are.
 
 ## Getting started
 
